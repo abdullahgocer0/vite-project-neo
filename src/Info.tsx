@@ -22,7 +22,7 @@ export default function Info({ totalPrice }: InfoProps) {
   return (
     <React.Fragment>
       <Typography variant="subtitle2" color="text.secondary">
-        TEST Enviroment
+        PROD Enviroment
       </Typography>
       <Typography variant="h4" gutterBottom>
         {totalPrice}

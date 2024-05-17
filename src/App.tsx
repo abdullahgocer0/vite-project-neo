@@ -204,7 +204,7 @@ export default function App() {
             >
               <div>
                 <Typography variant="subtitle2" gutterBottom>
-                  TEST
+                  PROD
                 </Typography>
                 <Typography variant="body1">
                   {activeStep >= 2 ? '' : ''}
