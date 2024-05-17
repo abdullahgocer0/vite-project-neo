@@ -31,12 +31,6 @@ import ToggleColorMode from './ToggleColorMode';
 
 const steps = ['Step 1', 'Step 2', 'Step 3'];
 
-const logoStyle = {
-  width: '140px',
-  height: '56px',
-  marginLeft: '-4px',
-  marginRight: '-8px',
-};
 
 function getStepContent(step: number) {
   switch (step) {
