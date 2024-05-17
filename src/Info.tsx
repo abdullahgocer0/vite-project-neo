@@ -35,9 +35,7 @@ export default function Info({ totalPrice }: InfoProps) {
               primary={product.name}
               secondary={product.desc}
             />
-            <Typography variant="body1" fontWeight="medium">
-              {product.price}
-            </Typography>
+        
           </ListItem>
         ))}
       </List>

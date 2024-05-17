@@ -115,7 +115,6 @@ export default function AddressForm() {
           name="zip"
           type="zip"
           placeholder="12345"
-          autoComplete="shipping postal-code"
           required
         />
       </FormGrid>
