@@ -26,7 +26,7 @@ import InfoMobile from './InfoMobile';
 import PaymentForm from './PaymentForm';
 import Review from './Review';
 import ToggleColorMode from './ToggleColorMode';
-//import 'event-tracker-storage';
+import 'event-tracker-storage';
 
 
 const steps = ['Step 1', 'Step 2', 'Step 3'];
